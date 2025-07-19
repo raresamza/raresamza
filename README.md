@@ -1,17 +1,17 @@
 ![MasterHead](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
 <h1 align="center">Hi 👋, I'm Rares</h1>
-<h3 align="center">A passionate developer from Timisoara. I am interested in back-end(mostly java) as well as front-end(mostly react) and I am eager to learn new technologies and hone my skills as a software developer</h3>
+<h3 align="center">A passionate developer from Timisoara. I am interested in back-end(mostly C#) as well as front-end(mostly react) and I am eager to learn new technologies and hone my skills as a software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raresamza&label=Profile%20views&color=0e75b6&style=flat" alt="raresamza" /> </p>
 
 - 🔭 I’m currently working on [General Purpose Website for Myself and my friends](///)
 
-- 🌱 I’m currently learning **Nextjs, Reactjs,Javascript, Java, Java SpringBoot**
+- 🌱 I’m currently learning **Nextjs, Reactjs,Javascript, Java, Java SpringBoot,C#,.NET**
 
 - 👨‍💻 My projects are available at [https://3d-portofolio-six.vercel.app/](https://3d-portofolio-six.vercel.app/)
 
-- 💬 Ask me about **Nextjs, Reactjs, Java, Java SpringBoot**
+- 💬 Ask me about **Nextjs, Reactjs, Java, Java SpringBoot,C#,.NET**
 
 - 📫 How to reach me **raresamza@gmail.com**
 
