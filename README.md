@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raresamza&label=Profile%20views&color=0e75b6&style=flat" alt="raresamza" /> </p>
 
-- 🔭 I’m currently working on [General Purpose Website for Myself and my friends](///)
+- 🔭 I’m currently working on [Intelligent School Management System](https://github.com/raresamza/Internship-project-backend)
 
 - 🌱 I’m currently learning **Nextjs, Reactjs,Javascript, Java, Java SpringBoot,C#,.NET**
 
